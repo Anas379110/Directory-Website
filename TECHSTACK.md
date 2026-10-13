@@ -1,4 +1,5 @@
-# 🛠️ التقنيات المستخدمة — Directory — منصة دليل الخدمات والشركات
+# 🛠️ Tech Stack — Directory — Services & Business Listings Platform
+
 - HTML/CSS/JS
 - Cloudflare Pages
 - SSL/HTTPS

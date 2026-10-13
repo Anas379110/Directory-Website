@@ -1,20 +1,19 @@
-# Directory — منصة دليل الخدمات والشركات
-**Directory — Services & Business Listings Platform** · التصنيف: موقع محتوى
-> ملف تعريفي بالمشروع ونطاقه؛ هذا المستودع يحتوي على التوثيق فقط ولا يتضمن الشفرة المصدرية.
-> Project overview and scope; this repository contains documentation only, not implementation source code.
+# Directory — Services & Business Listings Platform
+**Directory — Services & Business Listings Platform** · Classification: Content Website
+> Project overview and scope; this repository contains documentation only and does not include implementation source code.
 
-## نبذة عن المشروع
-دليل خدمات ومعلومات للمغتربين الجدد في الخليج وسوريا، يغطي الشركات والخدمات القانونية والعقارات والتعليم مع تقييمات المستخدمين.
+## Project overview
+A services and information directory for new expatriates in the Gulf and Syria, covering companies and legal, real estate, and education services with user ratings.
 
-## أبرز النقاط
-- دليل شركات ومصانع، إضافة لدليل خدمات قانونية وعقارية وتعليمية
-- تقييمات ومراجعات من المستخدمين للمنشآت المدرجة
-- تحديث يومي، استضافة Cloudflare، تأمين SSL، ومتوافق مع سياسات الإعلانات
+## Key points
+- Directory of companies and factories, plus directories for legal, real estate, and educational services
+- User ratings and reviews for listed establishments
+- Daily updates, hosted on Cloudflare, SSL-secured, and compliant with advertising policies
 
-## الدور
-تصميم وتنفيذ منصة دليل للخدمات والمنشآت، بما يشمل تصنيف القوائم وتقييمات المستخدمين وتجربة التصفح.
+## Role
+Design and implement a directory platform for services and establishments, including listing classification, user ratings, and browsing experience.
 
-## التقنيات المستخدمة
+## Technologies used
 HTML/CSS/JS, Cloudflare Pages, SSL/HTTPS, SEO, AdSense
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
